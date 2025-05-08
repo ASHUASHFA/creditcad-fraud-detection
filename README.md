@@ -63,9 +63,4 @@ This project addresses the growing threat of credit card fraud, which poses sign
 - **Institution**: C. Abdul Hakeem College of Engineering and Technology
 - **Department**: Computer Science & Engineering
 - **Submitted By**: Ashfaq Ahmed.M
-- **Date**: 26-04-2025
-
-
-ChatGPT said:
-Thanks for sharing the full content here! Since you've pasted the completed README.md content again, would you like me to now:
 
